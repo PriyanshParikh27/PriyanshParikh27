@@ -1,7 +1,5 @@
 ### Hi there, I am Priyansh Parikh 👋
 
-<!--
-**PriyanshParikh27/PriyanshParikh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 👨‍🦱 I am 19<br>🌱 I’m currently learning Computer Programming and Analysis<br>💬 Ask me about C++, JavaScript, SQL<br>⚡ Fun fact I'm a techie👨‍💻
@@ -20,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PriyanshParikh27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
