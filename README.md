@@ -1,4 +1,4 @@
-### Hi there, I am Priyansh Parikh 👋 :wave:
+### Hi there, I am Priyansh Parikh :wave:
 
 
 # 💫 About Me:
