@@ -3,7 +3,8 @@
 
 # 💫 About Me:
 - 👨‍🦱 I am 21<br>
-- 🌱 I’m currently learning Computer Programming and Analysis (CPA)<br>
+- 🌱 I am a recent graduate
+  with an advanced diploma in Computer Programming and Analysis (CPA) from Seneca College<br>
 - 💬 Ask me about C++, Data Structures, JavaScript, SQL<br>
 - ⚡ Fun fact I'm a techie👨‍💻
 
