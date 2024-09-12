@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 👨‍🦱 I am 19<br>
+- 👨‍🦱 I am 21<br>
 - 🌱 I’m currently learning Computer Programming and Analysis (CPA)<br>
 - 💬 Ask me about C++, Data Structures, JavaScript, SQL<br>
 - ⚡ Fun fact I'm a techie👨‍💻
